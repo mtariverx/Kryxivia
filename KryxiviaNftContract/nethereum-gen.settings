@@ -1,0 +1,7 @@
+{
+    "projectName": "Kryxivia.Contracts",
+    "namespace": "Kryxivia.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "./dotnet"
+}

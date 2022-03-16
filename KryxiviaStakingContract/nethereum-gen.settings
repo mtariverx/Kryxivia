@@ -1,0 +1,7 @@
+{
+    "projectName": "KryxiviaStakingContract",
+    "namespace": "KryxiviaStakingContract.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}

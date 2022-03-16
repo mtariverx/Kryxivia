@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+# Hardhat
+cache
+artifacts
+secrets.txt
+
+# Solidity Extension CodeGen
+dotnet/
